@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# https://davidmuraya.com/blog/install-erpnext-ubuntu-bench/
+
+
 # Define colors
 GREEN='\033[0;32m'
 YELLOW='\033[1;33m'
